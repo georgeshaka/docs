@@ -35,6 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
+      "openapi": "/schema.yml",
       "url": "https://mintlify.com/docs"
     },
     {
